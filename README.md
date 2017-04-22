@@ -1,4 +1,7 @@
-# test coverage for  [gulp-cssmin (v0.1.7)](https://github.com/chilijung/gulp-cssmin/)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-cssmin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-cssmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-cssmin.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-cssmin)
+# npmtest-gulp-cssmin
+
+#### basic test coverage for  [gulp-cssmin (v0.1.7)](https://github.com/chilijung/gulp-cssmin/)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-cssmin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-cssmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-cssmin.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-cssmin)
+
 #### minify css using gulp
 
 [![NPM](https://nodei.co/npm/gulp-cssmin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-cssmin)
@@ -80,7 +83,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.1.7"
+    "version": "0.1.7",
+    "bin": {}
 }
 ```
 
